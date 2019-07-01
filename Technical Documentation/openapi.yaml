@@ -16,8 +16,7 @@ openapi: 3.0.0
 info:
   title: Singapore Academy of Law (SAL) LawNet Legal Research APIs
   description: >-
-    Please refer to
-    [https://github.com/legaltechsal/LawNet-APIs](https://github.com/legaltechsal/LawNet-APIs).
+    For the official documentation, please refer to [https://github.com/legaltechsal/LawNet-APIs](https://github.com/legaltechsal/LawNet-APIs). This Swagger documentation is provided by the community for ease of reference only.
   version: '1.0'
 servers:
   - url: https://test-legalresearch.api.sal.sg/
